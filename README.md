@@ -1,4 +1,4 @@
-# Basil Thalakkodan  
+# Basil Thalakkodan
 
 ✉️ [BasilThalakkodan@gmail.com](mailto:BasilThalakkodan@gmail.com) · 📞 +91 94604 8605 · 🔗 [linkedin.com/in/BasilThalakkodan](https://www.linkedin.com/in/BasilThalakkodan)
 
