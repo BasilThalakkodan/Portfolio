@@ -1,9 +1,3 @@
----
-title: "Basil Thalakkodan"
-description: "Data Analyst | Power BI | SQL | Tableau"
-layout: default
----
-
 # Basil Thalakkodan  
 
 ✉️ [BasilThalakkodan@gmail.com](mailto:BasilThalakkodan@gmail.com) · 📞 +91 94604 8605 · 🔗 [linkedin.com/in/BasilThalakkodan](https://www.linkedin.com/in/BasilThalakkodan)
@@ -40,46 +34,60 @@ Detail-oriented **Data Analyst** experienced with Excel, SQL, Power BI and Table
 ---
 
 ### 🔹 Sales Performance Dashboard — *SQL + Tableau*  
+- Built a sales analytics dashboard using SQL and Tableau.  
+- Identified key product and customer insights.  
+- Analysed sales and profit trends with clear KPI visuals.
 
 #### 📸 Dashboard Preview  
 ![Tableau Dashboard 1](tableau%201.png)  
 ![Tableau Dashboard 2](tableau%202.png)
 
-- Built a sales analytics dashboard using SQL and Tableau.  
-- Identified key product and customer insights.  
-- Analysed sales and profit trends with clear KPI visuals.
-
 ---
 
 ### 🔹 HR Analytics Dashboard — *MySQL + Power BI*  
 
+- Analysed organisation-wide employee data.  
+- Identified diversity gaps and attrition patterns.  
+- Created a consolidated HR dashboard for insights
+  
 #### 📸 Dashboard Preview  
 ![HR Dashboard 1](Hr%201.png)  
 ![HR Dashboard 2](Hr%202.png)
 
-- Analysed organisation-wide employee data.  
-- Identified diversity gaps and attrition patterns.  
-- Created a consolidated HR dashboard for insights.
+.
 
 ---
 
 ### 🔹 Logistics Performance Dashboard — *Power BI + AI Analytics*  
 
 #### 📸 Dashboard Preview  
-![Logistics Dashboard 1](Logistics%201.png)  
-![Logistics Dashboard 2](Logistics%202.png)  
-![Logistics Dashboard 3](Logistics%203.png)
-
 - Built a logistics performance dashboard.  
 - Identified operational delays and delivery patterns.  
 - Used AI-based anomaly detection for better insight.
 
+![Logistics Dashboard 1](Logistics%201.png)  
+![Logistics Dashboard 2](Logistics%202.png)  
+![Logistics Dashboard 3](Logistics%203.png)
+
 ---
 
-## 🛠️ Skills  
+## 🎯 Interests  
+Here are a few things I enjoy:  
 
-**Technical:** Excel · SQL · Power BI · Tableau · Google Sheets 
-**Soft:** Problem Solving · Communication · Leadership · Analytical Mindset · Time Management · Team Collaboration  
+- 📊 **Dashboard Design**  
+- 📈 **Data Analysis**  
+- ✈️ **Travelling**  
+- 📚 **Reading**
+
+---
+
+## 🧠 Tools & Skills  
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white)  
+![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white)  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)  
 
 ---
 
