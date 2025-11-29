@@ -1,0 +1,43 @@
+---
+# This front-matter is required so GitHub Pages compiles SCSS into CSS
+---
+
+/* Force DARK MODE styling */
+
+body {
+  background-color: #0d1117 !important;   /* Deep GitHub-style dark */
+  color: #c9d1d9 !important;              /* Light text */
+  line-height: 1.6;
+}
+
+/* Links */
+a {
+  color: #58a6ff !important;
+  text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+
+/* Header/footer area */
+header, footer {
+  background-color: transparent !important;
+}
+
+/* Make images pop in dark mode */
+img {
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(2,6,23,0.6);
+}
+
+/* Tables — darker borders */
+table {
+  background: rgba(255,255,255,0.03);
+  color: #c9d1d9 !important;
+}
+th, td {
+  border-color: rgba(255,255,255,0.06) !important;
+}
+
+/* Page content wrapper overrides (Minimal theme uses container) */
+.container, .page__content, .site-content {
+  background: transparent !important;
+}
