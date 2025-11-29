@@ -87,11 +87,34 @@ Here are a few things I enjoy:
 ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)  
 
 ---
 
 ## 🤝 Connect  
-- Email: [BasilThalakkodan@gmail.com](mailto:BasilThalakkodan@gmail.com)  
-- Phone: +91 94604 8605  
-- LinkedIn: [linkedin.com/in/BasilThalakkodan](https://www.linkedin.com/in/BasilThalakkodan)
+## 📫 Contact Details  
+*Let’s connect and explore opportunities together!*  
+
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:Basilthalakkodan@gmail.com">Basilthalakkodan@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(+91) 994-604-8605</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Kerala, India</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="Basil_Data_Analyst.pdf">Download My CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/basil-thalakkodan">Connect on LinkedIn</a></td>
+    </tr>
+  </tbody>
+</table>
