@@ -32,6 +32,17 @@ Detail-oriented **Data Analyst** experienced with Excel, SQL, Power BI and Table
 ## 🧩 Projects  
 
 ---
+### 🔹 GCC Construction Material Inventory System (IMS) — *Google Sheets + Google Apps Script*  
+- Built a full-stack inventory application to digitize the material lifecycle for Middle Eastern construction logistics.  
+- Developed an Outward Form to manage site allocations and track warehouse control.  
+- Analysed stock levels via a live executive dashboard featuring health scores and automated alerts.
+
+#### 📸 Dashboard Preview  
+![Inward Form](Material%20Inward%20Form.png)
+![Outward Form](Material%20Outward%20Form.png)
+![Analytics Hub Dashboard](Dashboard.png)
+
+---
 
 ### 🔹 Sales Performance Dashboard — *SQL + Tableau*  
 - Built a sales analytics dashboard using SQL and Tableau.  
