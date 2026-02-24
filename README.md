@@ -33,7 +33,7 @@ Detail-oriented **Data Analyst** experienced with Excel, SQL, Power BI and Table
 
 ---
 ### 🔹 GCC Construction Material Inventory System (IMS) — *Google Sheets + Google Apps Script*  
-🔗 **[Live Project / Video Walkthrough](https://www.linkedin.com/posts/basilthalakkodan_vision2030-vision2030-saudiarabia-activity-7427256386667028480-RwJg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOjHF0BiX2fWLr1ioMy2Q4ZhMRJPZSYeNo)
+🔗 **[Live Project / Video Walkthrough](https://www.linkedin.com/posts/basilthalakkodan_vision2030-vision2030-saudiarabia-activity-7427256386667028480-RwJg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOjHF0BiX2fWLr1ioMy2Q4ZhMRJPZSYeNo)**
 
 - Built a full-stack inventory application to digitize the material lifecycle for Middle Eastern construction logistics.  
 - Developed an Outward Form to manage site allocations and track warehouse control.  
@@ -47,7 +47,7 @@ Detail-oriented **Data Analyst** experienced with Excel, SQL, Power BI and Table
 ---
 
 ### 🔹 Sales Performance Dashboard — *SQL + Tableau*  
-🔗 **[Live Project / Video Walkthrough](https://www.linkedin.com/posts/basilthalakkodan_tableau-sql-datavisualization-activity-7399470068897599489-phXv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOjHF0BiX2fWLr1ioMy2Q4ZhMRJPZSYeNo)
+🔗 **[Live Project / Video Walkthrough](https://www.linkedin.com/posts/basilthalakkodan_tableau-sql-datavisualization-activity-7399470068897599489-phXv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOjHF0BiX2fWLr1ioMy2Q4ZhMRJPZSYeNo)**
 
 - Built a sales analytics dashboard using SQL and Tableau.  
 - Identified key product and customer insights.  
@@ -60,7 +60,7 @@ Detail-oriented **Data Analyst** experienced with Excel, SQL, Power BI and Table
 ---
 
 ### 🔹 HR Analytics Dashboard — *MySQL + Power BI*  
-🔗 **[Detailed Project Walkthrough](https://www.linkedin.com/posts/basilthalakkodan_hr-analytical-dashboard-activity-7391679478734802944-meAe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOjHF0BiX2fWLr1ioMy2Q4ZhMRJPZSYeNo)
+🔗 **[Detailed Project Walkthrough](https://www.linkedin.com/posts/basilthalakkodan_hr-analytical-dashboard-activity-7391679478734802944-meAe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOjHF0BiX2fWLr1ioMy2Q4ZhMRJPZSYeNo)**
 
 - Analysed organisation-wide employee data.  
 - Identified diversity gaps and attrition patterns.  
@@ -75,7 +75,7 @@ Detail-oriented **Data Analyst** experienced with Excel, SQL, Power BI and Table
 ---
 
 ### 🔹 Logistics Performance Dashboard — *Power BI + AI Analytics*  
-🔗 **[Detailed Project Walkthrough](https://www.linkedin.com/posts/basilthalakkodan_microsoftai-powerbi-logisticsanalytics-activity-7382737877819908096-_VMo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOjHF0BiX2fWLr1ioMy2Q4ZhMRJPZSYeNo)
+🔗 **[Detailed Project Walkthrough](https://www.linkedin.com/posts/basilthalakkodan_microsoftai-powerbi-logisticsanalytics-activity-7382737877819908096-_VMo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOjHF0BiX2fWLr1ioMy2Q4ZhMRJPZSYeNo)**
 
 - Built a logistics performance dashboard.  
 - Identified operational delays and delivery patterns.  
