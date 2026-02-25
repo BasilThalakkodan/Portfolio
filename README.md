@@ -32,6 +32,19 @@ Detail-oriented **Data Analyst** experienced with Excel, SQL, Power BI and Table
 ## 🧩 Projects  
 
 ---
+### 🔹 Airline Catering MIS Procurement Tool — *Advanced Excel + VBA* 
+🔗 **[Live Project / Video Walkthrough](https://www.linkedin.com/posts/basilthalakkodan_dataanalytics-mis-aviation-activity-7432302766074658816-vzNp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOjHF0BiX2fWLr1ioMy2Q4ZhMRJPZSYeNo)**
+
+- Built an automated procurement database to standardize global aviation vendor pricing and eliminate manual entry errors.  
+- Engineered dynamic VBA algorithms to instantly convert multi-regional currencies into a unified USD/KG landed cost and calculate complex logistics fees.  
+- Structured a clean, relational backend database optimized for downstream analysis and dashboard reporting.
+
+#### 📸 Dashboard Preview  
+![App Dashboard](Interface.png)
+![Data Entry Form](ExcelForm.png)
+![Backend Database](CateringDatabase.png)
+
+---
 ### 🔹 GCC Construction Material Inventory System (IMS) — *Google Sheets + Google Apps Script*  
 🔗 **[Live Project / Video Walkthrough](https://www.linkedin.com/posts/basilthalakkodan_vision2030-vision2030-saudiarabia-activity-7427256386667028480-RwJg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOjHF0BiX2fWLr1ioMy2Q4ZhMRJPZSYeNo)**
 
