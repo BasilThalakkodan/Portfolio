@@ -140,7 +140,7 @@ Here are a few things I enjoy:
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="Basil_Data_Analyst.pdf">Download My CV</a></td>
+      <td><a href="Business Analyst.pdf">Download My CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
