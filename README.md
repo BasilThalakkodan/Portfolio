@@ -33,10 +33,10 @@ Detail-oriented **Data Analyst** experienced with Excel, SQL, Power BI and Table
 ### 🔹 Healthcare Operations & Revenue Intelligence — *Power BI + DAX*
 🔗 **[Live Project / Video Walkthrough](https://www.linkedin.com/posts/basilthalakkodan_dataanalytics-powerbi-healthcareanalytics-activity-7436737555972128768-Mbfy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOjHF0BiX2fWLr1ioMy2Q4ZhMRJPZSYeNo)**
 
--Developed a multi-page executive dashboard to monitor hospital operations, patient flow, and financial health.
--Engineered complex DAX measures to track Revenue Cycle Management (RCM) KPIs, including Gross Revenue, Net Revenue, and Revenue Leakage.
--Integrated regional healthcare KPIs, including Malaffi Compliance and Patient Satisfaction scores, to provide holistic facility performance insights.
--Optimized dashboard UI/UX with an application-style interface, featuring a synchronized slicer panel and geographic mapping for regional performance analysis.
+- Developed a multi-page executive dashboard to monitor hospital operations, patient flow, and financial health.
+- Engineered complex DAX measures to track Revenue Cycle Management (RCM) KPIs, including Gross Revenue, Net Revenue, and Revenue Leakage.
+- Integrated regional healthcare KPIs, including Malaffi Compliance and Patient Satisfaction scores, to provide holistic facility performance insights.
+- Optimized dashboard UI/UX with an application-style interface, featuring a synchronized slicer panel and geographic mapping for regional performance analysis.
 
 #### 📸 Dashboard Preview  
 ![Executive Overview](Overview%201.png)
