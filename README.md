@@ -30,6 +30,19 @@ Detail-oriented **Data Analyst** experienced with Excel, SQL, Power BI and Table
 ---
 
 ## 🧩 Projects  
+### 🔹 Healthcare Operations & Revenue Intelligence — *Power BI + DAX*
+🔗 **[Live Project / Video Walkthrough](https://www.linkedin.com/posts/basilthalakkodan_dataanalytics-powerbi-healthcareanalytics-activity-7436737555972128768-Mbfy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOjHF0BiX2fWLr1ioMy2Q4ZhMRJPZSYeNo)**
+
+- Developed a comprehensive 3-page executive dashboard for hospital leadership to monitor clinical operations, patient flow, and financial health.
+- Engineered advanced DAX measures to calculate Revenue Cycle Management (RCM) KPIs, including Gross Revenue, Net Revenue, and Revenue Leakage in AED.
+- Integrated critical regional compliance metrics such as Malaffi Compliance % alongside Patient Satisfaction scores to provide a holistic view of facility performance.
+- Optimized user experience with a modern, application-style UI featuring a pop-out slicer panel and geographic revenue mapping for regional facility analysis.
+
+#### 📸 Dashboard Preview  
+#### 📸 Dashboard Preview  
+* [**Executive Overview**](Overview%201.png)  
+* [**Clinical Operations**](Operations%202.png)  
+* [**Revenue Cycle Management**](Revenue%20Cycle%20Management%203.png)
 
 ---
 ### 🔹 Airline Catering MIS Procurement Tool — *Advanced Excel + VBA* 
