@@ -40,9 +40,9 @@ Detail-oriented **Data Analyst** experienced with Excel, SQL, Power BI and Table
 
 #### 📸 Dashboard Preview  
 #### 📸 Dashboard Preview  
-* [**Executive Overview**](Overview%201.png)  
-* [**Clinical Operations**](Operations%202.png)  
-* [**Revenue Cycle Management**](Revenue%20Cycle%20Management%203.png)
+* [Executive Overview](Overview1.png)
+* [Clinical Operations](Operations2.png)  
+* [Revenue Cycle Management](RevenueCycleManagement.png)
 
 ---
 ### 🔹 Airline Catering MIS Procurement Tool — *Advanced Excel + VBA* 
