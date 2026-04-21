@@ -57,6 +57,27 @@ Data Analyst specialising in **automated MIS reporting, dashboard development, a
 ## 🧩 Projects
 
 ---
+### 🔹 Security Solutions & Revenue Intelligence — *MySQL + Excel + Power BI*
+🔗 **[Live Project / Portfolio](https://www.linkedin.com/posts/basilthalakkodan_powerbi-dataanalytics-businessanalyst-ugcPost-7452223348727672832-j7RG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOjHF0BiX2fWLr1ioMy2Q4ZhMRJPZSYeNo)** 
+
+An end-to-end analytics solution developed to streamline visibility into the security systems industry. This project tracks the full data lifecycle from raw transaction storage to executive-level strategic insights.
+
+- **End-to-End Data Pipeline:** Developed a full-stack workflow extracting raw sales data via **MySQL**, performing data transformation in **Excel**, and building a highly interactive 3-page dashboard in **Power BI**.
+- **Revenue Prioritization:** Analyzed **406 sales transactions**, identifying the **Military sector** as the primary revenue contributor, enabling leadership to shift focus toward high-value government contracts.
+- **Advanced Analytics & UI:** Engineered **20+ complex DAX measures** and utilized **bookmarks and dynamic formatting** to create an "application-style" user experience for seamless reporting.
+- **Strategic Product Pivot:** Used scatter plot analysis to identify a high-margin opportunity (**76.51% GP**) in **SSO Software Licenses**, suggesting a cross-sell strategy to complement high-volume hardware sales.
+- **Geographic Intelligence:** Integrated a regional revenue distribution map of **Saudi Arabia**, pinpointing growth trends across Ar Riyad and Ash Sharqiyah to support localized marketing efforts.
+
+**Tools:** MySQL, Microsoft Excel (Power Query), Power BI, DAX, Data Modeling, Business Intelligence
+
+#### 📸 Dashboard Preview
+![Executive Summary](Exec%20Summary%201.jpeg)
+![Sales and Customers](Sales%20and%20Customers%202.jpeg)
+![Product Analysis 1](Porduct%20Analysis%201.jpeg)
+![Product Analysis 2](Product%20Analysis%202.jpeg)
+
+---
+
 
 ### 🔹 Healthcare Operations & Revenue Intelligence — *Power BI + DAX*
 🔗 **[Live Project / Video Walkthrough](https://www.linkedin.com/posts/basilthalakkodan_dataanalytics-powerbi-healthcareanalytics-activity-7436737555972128768-Mbfy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOjHF0BiX2fWLr1ioMy2Q4ZhMRJPZSYeNo)**
