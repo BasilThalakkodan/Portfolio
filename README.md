@@ -55,6 +55,40 @@ Data Analyst specialising in **automated MIS reporting, dashboard development, a
 ---
 
 ## 🧩 Projects
+---
+### 🔹 Security Solutions CRM — Pre-Sales & Pipeline Intelligence — *Zoho CRM + Power Query + Power BI*
+
+🔗 **[LinkedIn Walkthrough Video](https://www.linkedin.com/posts/basilthalakkodan_powerbi-datavisualization-businessintelligence-activity-7459491557537128448-Oq5D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOjHF0BiX2fWLr1ioMy2Q4ZhMRJPZSYeNo)**
+
+---
+
+### 📊 Dashboard Preview
+
+![Page 1 - Sales Performance Overview](crm%201.png)
+![Page 2 - Pipeline Health & Conversion](crm%202.png)
+![Page 3 - Product Analysis & Lost Deals](crm%203.png)
+
+---
+
+An end-to-end CRM analytics solution built to provide full visibility into the pre-sales pipeline of a security solutions company operating across the Middle East. This project tracks the complete opportunity lifecycle — from lead acquisition through qualification, proposal, negotiation and final closure — delivering actionable intelligence across 8 countries, 12 industries and 8 sales agents over a 3 year period.
+
+- **End-to-End Data Pipeline:** Developed a full-stack workflow extracting raw CRM data from **Zoho CRM** via CSV export, performing data transformation and cleaning in **Power Query**, and building a highly interactive 3-page dashboard in **Power BI** with **15+ DAX measures** covering win rates, conversion rates, weighted pipeline value and cycle duration analysis.
+
+- **Pre-Sales Pipeline Visibility:** Mapped the complete pre-sales journey across **8 pipeline stages** — Lead → Qualified → Needs Analysis → Proposal Sent → Negotiation → Verbal Approval → Closed Won / Lost — enabling sales leadership to identify exactly where opportunities stall and where conversion drops.
+
+- **Country-Level Conversion Intelligence:** Analysed conversion rates across **8 Middle Eastern countries**, identifying **Qatar (13.85%)** and **Jordan (13.6%)** as top-performing markets while uncovering that **Kuwait** generates the highest average deal value at **$1.03M** — enabling targeted resource allocation by geography.
+
+- **Product & Revenue Strategy:** Identified **AI Software** as the highest win rate category at **66%** despite not being the top revenue driver, and **Perimeter Security** as the top revenue category at **$104M** — providing leadership with a clear cross-sell opportunity to leverage AI Software's high closure rate alongside hardware sales.
+
+- **Lost Deal Analysis:** Investigated **231 lost opportunities** worth **$183M**, revealing that **Project Cancelled (19.5%)** and **Timeline Mismatch (16.5%)** are the primary loss drivers — insights that directly inform pre-sales qualification strategy and follow-up cadence.
+
+- **Design Decision:** Deliberately chose a **Line and Clustered Column chart** over a Filled Map for the country conversion visual — enabling stakeholders to compare conversion rate and average deal value simultaneously across all countries at a glance, telling a richer story than colour shading on a map alone.
+
+- **Pipeline Health Monitoring:** Built a **monthly deal volume stacked column chart** by stage alongside a **funnel visual** to track month-over-month pipeline growth, giving sales managers a live view of pipeline health and stage-wise bottlenecks.
+
+**Tools:** Zoho CRM, Power Query, Power BI, DAX, Data Modelling, Business Intelligence
+
+---
 
 ---
 ### 🔹 Security Solutions & Revenue Intelligence — *MySQL + Excel + Power BI*
